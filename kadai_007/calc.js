@@ -1,5 +1,5 @@
 //変数numに1以上のランダムな整数を代入する
-num = Math.floor(Math.random()*5)+1;
+let num = Math.floor(Math.random()*5)+1;
 
 //確認用
 console.log(num);
