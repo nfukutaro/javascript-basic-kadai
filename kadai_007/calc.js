@@ -1,8 +1,5 @@
-//変数numに0～7までのランダムな整数を代入する
-num = Math.floor(Math.random()*7);
-
-//確認用
-console.log(num);
+//変数numに任意の整数を代入する
+num = 6
 
 if (num % 3 === 0 && num % 5 === 0){
     console.log('3と5の倍数です');
